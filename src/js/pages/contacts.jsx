@@ -61,7 +61,7 @@ const Contactos = () => {
                                                     let obj = {
                                                         "full_name": nombrePrompt,
                                                         "email": emailPrompt,
-                                                        "agenda_slug": "agenda_de_sandra",
+                                                        "agenda_slug": "agenda_de_jorge",
                                                         "address": addressPrompt,
                                                         "phone": phonePrompt
                                                     }

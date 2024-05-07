@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2675900.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-size: cover;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bg-custom {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 3px white;
+  -webkit-box-shadow: 5px 5px 15px 5px #ffffff;;
+  box-shadow: 5px 5px 15px 5px #ffffff;;
+}
+
+.bg-footer {
+  background-color: rgba(0, 0, 0, 0.8);
+}

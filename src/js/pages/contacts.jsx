@@ -40,7 +40,7 @@ const Contactos = () => {
                                 return (
                                     <div key={index} className="row border-bottom py-3">
                                         <div className="col-2">
-                                            <img className="img-thumbnail" src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/02/gambit-1.jpeg?q=50&fit=crop&w=1500&dpr=1.5" />
+                                            <img className="img-thumbnail" src="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cVbBoKxRDFOdDKwdpRmxVazDWlE.jpg" width="150" height="150" />
                                         </div>
                                         <div className="col-8">
                                             <h3 className="mb-3">{item.full_name}</h3>
